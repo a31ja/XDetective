@@ -2,3 +2,23 @@ Hello
 The XDetective Tool is a software application designed by 
 Sultan Alsubaie, Ayman Alzahrani, Mohammed Alotiabibi, Nawaf Alotiabibi, Bassam Abdo, Munthir Alhotah
 to enhance cybersecurity by scanning files and links for potential threats
+
+
+
+markdown
+# XDetective
+
+XDetective is a tool for detecting malware and phishing links.
+
+## How to Copy
+
+You can copy the tool by visiting the following link:
+
+[Copy the tool](https://github.com/myusername/XDetective)
+
+## Cloning the Repository
+
+To clone the XDetective tool, run the following command in your terminal:
+
+bash
+git clone https://github.com/myusername/XDetective.git 
