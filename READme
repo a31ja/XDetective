@@ -5,20 +5,10 @@ to enhance cybersecurity by scanning files and links for potential threats
 
 
 
-markdown
-# XDetective
-
-XDetective is a tool for detecting malware and phishing links.
-
-## How to Copy
-
-You can copy the tool by visiting the following link:
-
-[Copy the tool](https://github.com/myusername/XDetective)
 
 ## Cloning the Repository
 
 To clone the XDetective tool, run the following command in your terminal:
 
 bash
-git clone https://github.com/myusername/XDetective.git 
+git clone https://github.com/a31ja/XDetective.git 
